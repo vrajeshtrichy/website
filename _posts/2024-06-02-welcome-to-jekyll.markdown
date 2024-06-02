@@ -1,8 +1,16 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2024-06-02 01:06:40 +0100
-categories: jekyll update
+description: Improve LLM responses in RAG use cases by interacting with the user
+title: RAG with User Interaction
+toc: true
+badges: true
+comments: true
+author: Antonia Wiebeler, Nikita Kozodoi
+categories: [generative ai, natural language processing, web app]
+image: images/posts/RajeshProfilePic2.jpg
+cover: images/covers/RajeshProfilePic2.jpg
+layout: notebook
+permalink: /blog/:year:month:day/rag-with-human-interaction
+sticky_rank: 1
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

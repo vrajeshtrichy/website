@@ -1,27 +1,86 @@
 ---
 layout: default
 ---
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
+    {%- if page.description -%}
+      {%- if site.html_escape.description -%}
+        <p class="page-description">{{ page.description | escape }}</p>
+      {%- else -%}
+        <p class="page-description">{{ page.description }}</p>
+      {%- endif -%}
+    {%- endif -%}
+    <p class="post-meta post-meta-title">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
+      {%- if page.modified_date -%}
+        ~
+        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
+        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
+          {{ mdate | date: date_format }}
+        </time>
+      {%- endif -%}
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
-      {%- endif -%}</p>
+        • {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+      {%- endif %}
+       • {% include reading_time.html -%}
+    </p>
+
+    {% if page.categories.size > 0 and site.show_tags %}
+      <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i>
+      {% for category in  page.categories  %}
+        <a class="category-tags-link" href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+      </p>
+    {% endif %}
+
+    {% if page.layout == 'notebook' %}
+      {% if page.badges or page.badges == nil %}
+        <div class="pb-5 d-flex flex-wrap flex-justify-end">
+          {% include dark_mode_switch.html %}
+          {% unless page.hide_github_badge or site.default_badges.github != true %}{% include notebook_github_link.html %}{% endunless %}
+          {% unless page.hide_colab_badge or site.default_badges.colab != true %}{% include notebook_colab_link.html %}{% endunless %}
+        </div>
+      {% endif -%}
+    {% endif -%}
+    {% if page.cover %}
+      <img src="{{page.cover | relative_url }}" style="width:100%"/>
+    {% endif -%}
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=607a88d1f94d5c00182f2b41&product=inline-share-buttons" async="async"></script>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
+    {{ content | toc  }}
   </div>
 
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
+  {%- if page.comments -%}
+    <!--{%- include disqus-comments.html -%}-->
   {%- endif -%}
 
+  <hr style="height:1px;border-width:0;color:rgb(50,50,50);background-color:rgb(50,50,50)">
+
+  Liked the post? Share it on social media!
+  <div class="sharethis-inline-share-buttons" style = "margin-top: 3px;"></div>
+
+  <br>
+
+  You can also buy me a cup of tea to support my work. Thanks!
+  <div class="tea">
+    <a href="https://www.buymeacoffee.com/kozodoi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me tea &emoji=&slug=kozodoi&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" align="left"></a>
+  </div>
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+  <script src="/assets/js/mode_switcher.js"></script>
+
 </article>
