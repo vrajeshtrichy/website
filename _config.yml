@@ -24,10 +24,42 @@ description: >- # this means to ignore newlines until "baseurl:"
   AI, ML and other cool technologies
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: RajeshKann79045
 github_username:  vrajeshtrichy
 
+minima:
+  social_links:
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/vrajeshtrichy/" }
+    - { platform: github, user_url: "https://github.com/vrajeshtrichy" }
+    - { platform: twitter, user_url: "https://x.com/RajeshKann79045" }
+
+# Set this to true to get LaTeX math equation support
+use_math:
+
+# Set this to true to display the summary of your blog post under your title on the Home page.
+show_description: true
+
+# Set this to true to display image previews on home page, if they exist
+show_image: true
+
+# Set this to true to display tags on each post
+show_tags: true
+
+# this setting allows you to keep pages organized in the _pages folder
+include:
+  - _pages
+  
+# This specifies what badges are turned on by default for notebook posts.
+default_badges:
+  github: true
+  colab: true
+
+# Escape HTML in post descriptions
+html_escape:
+  description: false
+
 # Build settings
+future: true
 theme: minima
 plugins:
   - jekyll-feed
