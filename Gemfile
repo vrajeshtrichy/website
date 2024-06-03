@@ -17,7 +17,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-octicons'
-  # gem 'jekyll-remote-theme'
+  gem 'jekyll-remote-theme'
   gem "jekyll-twitter-plugin"
   gem 'jekyll-relative-links'
   gem 'jekyll-seo-tag'
