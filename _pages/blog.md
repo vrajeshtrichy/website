@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Blog
 permalink: /blog/
@@ -6,4 +6,4 @@ permalink: /blog/
 
 <p>
     Blog is coming soon :)
-</p>
+</p> -->
