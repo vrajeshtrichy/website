@@ -16,7 +16,7 @@ permalink: /about/
   </div>
 </div>
 
-<p><span class="page-desc">Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my CV and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
+<p><span class="page-desc">Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my CV and check out my<a href="http://127.0.0.1:4000/portfolio/">portfolio</a> to see my work.</span></p>
 
 
 <!----------------------------------------------------------------------------->
@@ -36,19 +36,18 @@ In my free time, I enjoy playing beach volleyball and challenging myself in ML c
 <!----------------------------------------------------------------------------->
 ## About this website
 
-This website hosts [my blog](http://127.0.0.1:4000/blog/), where I share ML tutorials, competitive ML tricks, and interesting project findings. All opinions published here are my own. The website includes different sections featuring my work:
+This website hosts [Portfolio](http://127.0.0.1:4000/portfolio/), where I share ML tutorials, competitive ML tricks, and interesting project findings. All opinions published here are my own. The website includes different sections featuring my work:
 
-- &#128193; [my portfolio](http://127.0.0.1:4000/portfolio/) with ML projects on different topics
-- &#128483; [my tech talks](http://127.0.0.1:4000/talks/) with links to presentation slides and talk videos
-- &#128218; [my ML publications](http://127.0.0.1:4000/papers/) with paper abstracts and full-text PDFs
-- &#129351; [my Kaggle solutions](http://127.0.0.1:4000/kaggle/) with links to code and write-ups
-- &#128421; [my certifications](http://127.0.0.1:4000/certifications/) with links to certificates and completed courses
-- &#127891; [my teaching experience](http://127.0.0.1:4000/teaching/) at the Humboldt University of Berlin
+- &#128193; [Portfolio](http://127.0.0.1:4000/portfolio/) with ML projects on different topics
+<!-- - &#128483; [tech talks](http://127.0.0.1:4000/talks/) with links to presentation slides and talk videos -->
+<!-- - &#128218; [ML publications](http://127.0.0.1:4000/papers/) with paper abstracts and full-text PDFs -->
+<!-- - &#129351; [Kaggle solutions](http://127.0.0.1:4000/kaggle/) with links to code and write-ups -->
+- &#128421; [Certifications](http://127.0.0.1:4000/certifications/) with Certificates and Completed Courses
 
-If you like my blog, you can buy me a cup of tea to support my work. Thanks!
-<div class="tea">
-  <a href="https://www.buymeacoffee.com/kozodoi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me tea &emoji=&slug=kozodoi&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" align="left"></a>
-</div>
+- &#128421; [Experience](http://127.0.0.1:4000/experience/) with Professional Experiences
+
+- &#128421; [Education](http://127.0.0.1:4000/education/) with Educational Qualifications
+
 <br>
 
 <hr style="height:1px; visibility:hidden;" />
@@ -58,15 +57,14 @@ If you like my blog, you can buy me a cup of tea to support my work. Thanks!
 <!----------------------------------------------------------------------------->
 ## Contact
 
-Would like to have a chat? <a href="mailto:vrajeshtrichy@gmail.com">Click here</a> to send me an e-mail.
+Would like to have a chat? <a href="mailto:vrajeshkanna@icloud.com">Click here</a> to send me an e-mail.
 
 I am also happy to connect on different social and professional platforms. Click the badges below to see my profile.
 
 <div class="social-links" align = "left">
   <ul class = "badge-list">
-    <li><a href="https://www.linkedin.com/in/kozodoi/"><img src="https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kozodoi/"/></a></li>
-    <li><a href="https://x.com/RajeshKann79045"><img src="https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://x.com/RajeshKann79045"/></a></li>
-    <li><a href="https://www.kaggle.com/kozodoi"><img src="https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/kozodoi"/></a></li>
+    <li><a href="https://www.linkedin.com/in/vrajeshtrichy/"><img src="https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vrajeshtrichy/"/></a></li>
+    <li><a href="https://x.com/Xbot_RK"><img src="https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://x.com/Xbot_RK"/></a></li>
     <li><a href="https://github.com/vrajeshtrichy"><img src="https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/vrajeshtrichy"/></a></li>
   </ul>
 </div>
