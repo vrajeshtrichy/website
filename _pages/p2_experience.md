@@ -1,7 +1,7 @@
 ---
 layout: menu_page
-title:
-permalink: /certifications/
+title: Experience
+permalink: /experience/
 ---
 
 <script src="{{ base.url | prepend: site.url }}/assets/js/show_summary.js"></script>
@@ -11,12 +11,12 @@ permalink: /certifications/
     <img src="../images/menu/photo_backup.jpg" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
   </div>  
   <div class="content">
-    <h1>Certifications</h1>
-    <p><span class="cover-desc" style="color:var(--page-desc-color)">This page provides a list of certifications and courses I completed. Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my CV and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
+    <h1>Experience</h1>
+    <p><span class="cover-desc" style="color:var(--page-desc-color)">This page provides a list of certifications and courses I completed. Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
   </div>
 </div>
 
-<p><span class="page-desc">This page provides a list of certifications and courses I completed. Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my CV and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
+<p><span class="page-desc">This page provides a list of certifications and courses I completed. Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
 
 <!----------------------------------------------------------------------------->
 

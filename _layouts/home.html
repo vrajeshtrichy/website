@@ -21,7 +21,7 @@ layout: default
   <!-- Sticky posts -->
   {% if site.paginate and paginator.page == 1 %}
   {%- if sticky_posts.size > 0 -%}
-  <h2>Popular posts</h2>
+  <h2>Popular projects</h2>
   {%- if page.list_title -%}
   <h2 class="post-list-heading">{{ page.list_title }}</h2>
   {%- endif -%}
@@ -42,7 +42,7 @@ layout: default
 
   <!-- Non-sticky posts -->
   {%- if posts.size > 0 -%}
-  <h2>Recent posts</h2>
+  <h2>Recent projects</h2>
   {%- if page.list_title -%}
   <h2 class="post-list-heading">{{ page.list_title }}</h2>
   {%- endif -%}

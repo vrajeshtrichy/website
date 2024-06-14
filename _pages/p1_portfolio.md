@@ -7,19 +7,19 @@ permalink: /portfolio/
 
 <meta charset="UTF-8">
 
-<img src="../images/menu/RajeshProfilePic2.jpg" style="width:0%; height:0%; top:0; bottom:0">
+<!-- <img src="../images/menu/RajeshProfilePic2.jpg" style="width:0%; height:0%; top:0; bottom:0"> -->
 
 <div class="container">
-  <div style="width:100%;height:0; padding-top:50%;position:relative;">
-    <img src="../images/menu/RajeshProfilePic2.jpg" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
+  <div style="width:100%;height:0; padding-top:50%; overflow: hidden; position:relative;">
+    <img src="../images/menu/photo_portfolio.jpg" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
   </div>  
   <div class="content">
     <h1>Portfolio</h1>
-    <p><span class="cover-desc" style="color:var(--page-desc-color)">My portfolio includes three ML projects on different topics focusing on computer vision, NLP and tabular data. To see more of my work, visit my <a href="https://github.com/vrajeshtrichy">GitHub page</a>, download my <a href="http://127.0.0.1:4000/cv.pdf">CV</a> or check out the <a href="http://127.0.0.1:4000/about/">about</a> page.</span></p>
+    <p><span class="cover-desc" style="color:var(--page-desc-color)">My portfolio showcases a variety of machine learning projects spanning Generative AI, Large Language Models (LLMs), Latural Language Processing (NLP), Recommendation Systems, Computer Vision and applications with tabular data. To explore more of my work, you can visit my <a href="https://github.com/vrajeshtrichy">GitHub page</a>, download my <a href="http://127.0.0.1:4000/cv.pdf">Resume</a> or navigate to <a href="http://127.0.0.1:4000/about/">about</a> page.</span></p>
   </div>
 </div>
 
-<p><span class="page-desc">My portfolio includes three ML projects on different topics focusing on computer vision, NLP and tabular data. To see more of my work, visit my <a href="https://github.com/kozodoi">GitHub page</a>, download my <a href="http://127.0.0.1:4000/cv.pdf">CV</a> or check out the <a href="http://127.0.0.1:4000/about/">about</a> page.</span></p>
+<p><span class="page-desc">My portfolio showcases a variety of machine learning projects spanning Generative AI, Large Language Models (LLMs), Latural Language Processing (NLP), Recommendation Systems, Computer Vision and applications with tabular data. To explore more of my work, you can visit my <a href="https://github.com/vrajeshtrichy">GitHub page</a>, download my <a href="http://127.0.0.1:4000/cv.pdf">Resume</a> or navigate to <a href="http://127.0.0.1:4000/about/">about</a> page.</span></p>
 
 
 <!----------------------------------------------------------------------------->
@@ -34,9 +34,12 @@ permalink: /portfolio/
   <p>My portfolio features the following projects:</p>
 
   <ul style="margin-top: -10px;">
-  <li> &#128214; <a href="#PROJECT_1">Text reading complexity prediction with transformers </a></li>
-  <li> &#129516; <a href="#PROJECT_3">Image-to-text translation of chemical structures with deep learning </a></li>
-  <li> &#128200; <a href="#PROJECT_2">Fair machine learning in credit scoring applications </a></li>
+  <li> 🌐 <a href="#PROJECT_1">AI-ML-NLP-MachineTranslation </a></li>
+  <li> 📄 <a href="#PROJECT_2">AI-ML-NLP-TextSummarization </a></li>
+  <li> 📝 <a href="#PROJECT_3">AI-ML-NLP-TextGeneration </a></li>
+  <li> 😊 <a href="#PROJECT_4">AI-ML-NLP-SentimentAnalysis </a></li>
+  <li> 🔍 <a href="#PROJECT_5">MachineLearning_ChatGPT_SkillsSuggester </a></li>
+  <li> 🤖 <a href="#PROJECT_6">AI-ML-MultiAgentRL-UnityML-Hummingbirds </a></li>
   </ul>
 
   <p>Click "read more" to see project summaries. Follow GitHub links for code and documentation. Scroll down to see more ML projects grouped by application domainas and links to further pages with my work.</p>
@@ -70,13 +73,13 @@ permalink: /portfolio/
   <h3> Summary </h3>
   <p> Estimating text reading complexity is a crucial task for school teachers. Offering students text passages at the right level of challenge is important for facilitating a fast development of reading skills. The existing tools to estimate text complexity rely on weak proxies and heuristics, which results in a suboptimal accuracy. In this project, I use deep learning to predict the readability scores of text passages. </p>
   <p> My solution implements eight transformer models, including BERT, RoBERTa and others in PyTorch. The models feature a custom regression head that uses a concatenated output of multiple hidden layers. The modeling pipeline includes text augmentations such as sentence order shuffle, backtranslation and injecting target noise. The solution places in the top-9% of the Kaggle competition leaderboard. </p>
-  <p> The project also includes <a href="https://kozodoi-text-readability-prediction-web-app-ddrfmw.streamlit.app">an interactive web app</a> built in Python. The app allows to estimate reading complexity of a custom text using two of the trained transformer models. The code and documentation are available <a href="https://github.com/kozodoi/Text_Readability_Prediction">on GitHub</a>. </p>
+  <p> The project also includes <a href="#">an interactive web app</a> built in Python. The app allows to estimate reading complexity of a custom text using two of the trained transformer models. The code and documentation are available <a href="#">on GitHub</a>. </p>
   <img src="http://127.0.0.1:4000/images/portfolio/gif_books.gif" alt="Notebook" style="width:100%">
   </span>
 
   <button class="btn" onclick="read_more(dots_id='dots1', mor_id='more1', btn_id='btn1')" id="btn1">&#128220; Read more</button>
-  <button class="btn" onclick="window.open('https://github.com/kozodoi/Kaggle_Readability')" type="button">&#128187; GitHub repo</button>
-  <button class="btn" onclick="window.open('https://kozodoi-text-readability-prediction-web-app-ddrfmw.streamlit.app')" type="button">&#128202; Web app</button>
+  <button class="btn" onclick="window.open('#')" type="button">&#128187; GitHub repo</button>
+  <button class="btn" onclick="window.open('#')" type="button">&#128202; Web app</button>
   <button class="btn" onclick="window.open('http://127.0.0.1:4000/blog/20211121/text-readability')" type="button">&#128203; Blog post</button>
 
 </div>
@@ -112,12 +115,12 @@ permalink: /portfolio/
 
   <p>The goal of this project is to develop a deep learning based algorithm for chemical image captioning. In other words, the project aims at translating unlabeled chemical images into the text formula strings. To do that, I work with a large dataset of more than 4 million chemical images provided by Bristol-Myers Squibb.</p>
 
-  <p>My solution is an ensemble of CNN-LSTM Encoder-Decoder models implemented in PyTorch.The solution reaches the test score of 1.31 Levenstein Distance and places in the top-5% of the competition leaderboard. The code is documented and published on <a href="https://github.com/kozodoi/BMS_Molecular_Translation">GitHub</a>.</p>
+  <p>My solution is an ensemble of CNN-LSTM Encoder-Decoder models implemented in PyTorch.The solution reaches the test score of 1.31 Levenstein Distance and places in the top-5% of the competition leaderboard. The code is documented and published on <a href="#">GitHub</a>.</p>
   </span>
 
   <button class="btn" onclick="read_more(dots_id='dots3', mor_id='more3', btn_id='btn3')" id="btn3">&#128220; Read more</button>
-  <button class="btn" onclick="window.open('https://github.com/kozodoi/BMS_Molecular_Translation')" type="button">&#128187; GitHub repo</button>
-  <button class="btn" onclick="window.open('https://www.kaggle.com/c/bms-molecular-translation/discussion/243845')" type="button">&#128214; Writeup on Kaggle</button>
+  <button class="btn" onclick="window.open('#')" type="button">&#128187; GitHub repo</button>
+  <button class="btn" onclick="window.open('#')" type="button">&#128214; Writeup on Kaggle</button>
 
 </div>
 
@@ -155,15 +158,15 @@ permalink: /portfolio/
   <li> empirically comparing different fairness algorithms in a profit-oriented credit scoring context using real-world data </li>
   </ul>
 
-  <p>The code and documentation are available <a href="https://github.com/kozodoi/Fair_Credit_Scoring">on GitHub</a>. A detailed walkthrough and key results are published in <a href="https://arxiv.org/abs/2103.01907">this paper</a>.</p>
+  <p>The code and documentation are available <a href="#">on GitHub</a>. A detailed walkthrough and key results are published in <a href="#">this paper</a>.</p>
 
   <p>The study reveals that multiple fairness criteria can be approximately satisfied at once and recommends separation as a proper criterion for measuring scorecard fairness. It also finds fair in-processors to deliver a good profit-fairness balance and shows that algorithmic discrimination can be reduced to a reasonable level at a relatively low cost.</p>
   <img src="https://i.postimg.cc/5yB7y21M/fair-gif.gif" alt="Notebook" style="width:100%">
   </span>
 
   <button class="btn" onclick="read_more(dots_id='dots2', mor_id='more2', btn_id='btn2')" id="btn2">&#128220; Read more</button>
-  <button class="btn" onclick="window.open('https://github.com/kozodoi/Fair_Credit_Scoring')" type="button">&#128187; GitHub repo</button>
-  <button class="btn" onclick="window.open('https://arxiv.org/abs/2103.01907')" type="button">&#128213; Paper</button>
+  <button class="btn" onclick="window.open('#')" type="button">&#128187; GitHub repo</button>
+  <button class="btn" onclick="window.open('#')" type="button">&#128213; Paper</button>
 
 </div>
 
@@ -172,10 +175,6 @@ permalink: /portfolio/
 <!----------------------------------------------------------------------------->
 
 <hr style="height:10pt; visibility:hidden;" />
-
-<h1> Further projects </h1>
-
-Want to see more? Check out my further ML projects grouped by application areas below. You can also visit my <a href="https://github.com/kozodoi">GitHub page</a>, check my recent <a href="http://127.0.0.1:4000">blog posts</a>, watch <a href="http://127.0.0.1:4000/talks/">public tech talks</a> and read <a href="http://127.0.0.1:4000/papers/">academic publications</a>.
 
 <div>
   <button class="project_accordion">Computer vision</button>
@@ -192,8 +191,8 @@ Want to see more? Check out my further ML projects grouped by application areas 
       <li> implemented an interactive web app for estimating cuteness of custom pet photos </li>
       </ul></p>
 
-      <button class="btn" onclick="window.open('https://github.com/kozodoi/Pet_Pawpularity')" type="button">&#128187; GitHub repo</button>
-      <button class="btn" onclick="window.open('https://kozodoi-pet-pawpularity-web-app-kvzxqr.streamlit.app')" type="button">&#128202; Web app</button>
+      <button class="btn" onclick="window.open('#')" type="button">&#128187; GitHub repo</button>
+      <button class="btn" onclick="window.open('#')" type="button">&#128202; Web app</button>
     </div>
 
     <br>
@@ -209,43 +208,8 @@ Want to see more? Check out my further ML projects grouped by application areas 
       <li> finished in the top-1% of the Kaggle competition with a gold medal </li>
       </ul></p>
 
-      <button class="btn" onclick="window.open('https://github.com/kozodoi/Kaggle_Leaf_Disease_Classification')" type="button">&#128187; GitHub repo</button>
-      <button class="btn" onclick="window.open('https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/220751')" type="button">&#128214; Writeup on Kaggle</button>
-    </div>
-
-    <br>
-
-    <div class="card">
-      <h3>Catheter and Tube Position Detection on Chest X-Rays</h3>
-
-      <img src="https://i.postimg.cc/tT6b3KGN/xray-sample.png" alt="Notebook" style="width:100%">
-
-      <p><ul>
-      <li> built deep learning models to detect catheter and tube position on X-ray images </li>
-      <li> developed a comprehensive PyTorch GPU/TPU computer vision pipeline </li>
-      <li> finished in the top-5% of the Kaggle competition leaderboard with silver medal </li>
-      </ul></p>
-
-      <button class="btn" onclick="window.open('https://github.com/kozodoi/Kaggle_RANZCR_Challenge')" type="button">&#128187; GitHub repo</button>
-      <button class="btn" onclick="window.open('https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification/discussion/226664')" type="button">&#128214; Writeup on Kaggle</button>
-    </div>
-
-    <br>
-
-    <div class="card">
-      <h3>Detecting Blindness on Retina Photos</h3>
-
-      <img src="https://i.postimg.cc/dVjwCDr2/blindness.png" alt="Notebook" style="width:100%">
-
-      <p><ul>
-      <li> developed CNN models to identify disease types from retina photos </li>
-      <li> written a detailed report covering problem statement, EDA and modeling </li>
-      <li> submitted as a capstone project within the Udacity ML Engineer program </li>
-      </ul></p>
-
-      <button class="btn" onclick="window.open('https://github.com/kozodoi/Udacity_Blindness_Detection')" type="button">&#128187; GitHub repo</button>
-      <button class="btn" onclick="window.open('http://127.0.0.1:4000/blog/20200711/blindness-detection')" type="button">&#128203; Blog post</button>
-      <button class="btn" onclick="window.open('https://github.com/kozodoi/Udacity_Blindness_Detection/raw/master/report.pdf')" type="button">&#128214; Detailed report</button>
+      <button class="btn" onclick="window.open('#')" type="button">&#128187; GitHub repo</button>
+      <button class="btn" onclick="window.open('#')" type="button">&#128214; Writeup on Kaggle</button>
     </div>
 
   </div>
@@ -270,8 +234,8 @@ Want to see more? Check out my further ML projects grouped by application areas 
       <li> implemented custom loss functions aimed at maximizing the retailer's profit </li>
       </ul></p>
 
-      <button class="btn" onclick="window.open('https://github.com/kozodoi/DMC_2020')" type="button">&#128187; GitHub repo</button>
-      <button class="btn" onclick="window.open('http://127.0.0.1:4000/blog/20200727/demand-forecasting')" type="button">&#128203; Blog post</button>
+      <button class="btn" onclick="window.open('#')" type="button">&#128187; GitHub repo</button>
+      <button class="btn" onclick="window.open('#')" type="button">&#128203; Blog post</button>
 
 
     </div>
@@ -289,54 +253,9 @@ Want to see more? Check out my further ML projects grouped by application areas 
       <li> finished in the top-2% of the Kaggle competition leaderboard with silver medal </li>
       </ul></p>
 
-      <button class="btn" onclick="window.open('https://github.com/kozodoi/Kaggle_Google_Analytics')" type="button">&#128187; GitHub repo</button>
+      <button class="btn" onclick="window.open('#')" type="button">&#128187; GitHub repo</button>
 
     </div>   
-  </div>
-</div>
-
-
-<!----------------------------------------------------------------------------->
-
-<div>
-  <button class="project_accordion">Software packages</button>
-  <div class="project_panel">
-
-    <div class="card">
-
-      <h2> <code>fairness</code>: Package for Computing Fair ML Metrics </h2>
-
-      <img src="http://127.0.0.1:4000/images/portfolio/fig_fairness.png" alt="Notebook" style="width:100%">
-
-      <p><ul>
-      <li> developing and actively maintaining an R package for fair machine learning </li>
-      <li> the package offers calculation, visualization and comparison of algorithmic fairness metrics </li>
-      <li> the package is published on CRAN and has more than 16k total downloads </li>
-      </ul></p>
-
-      <button class="btn" onclick="window.open('https://github.com/kozodoi/fairness')" type="button">&#128187; GitHub repo</button>
-      <button class="btn" onclick="window.open('http://127.0.0.1:4000/blog/20200501/fairness-tutorial')" type="button">&#128203; Blog post</button>
-
-    </div>
-
-    <br>
-
-    <div class="card">
-
-      <h2><b> <code>dptools</code>: Package for Data Processing and Feature Engineering </b></h2>
-
-      <img src="https://i.postimg.cc/0yVqMHfM/data-cover.jpg" alt="Notebook" style="width:100%">
-
-      <p><ul>
-      <li> Python package with helper functions to simplify common data processing tasks </li>
-      <li> functions cover feature engineering, data aggregation, working with missings and more </li>
-      <li> the source code and documentation are available on <a href="https://github.com/kozodoi/dptools">GitHub</a> and <a href="https://pypi.org/project/dptools/">PyPi</a> </li>
-      </ul></p>
-
-      <button class="btn" onclick="window.open('https://github.com/kozodoi/dptools')" type="button">&#128187; GitHub</button>
-
-    </div>
-
   </div>
 </div>
 
