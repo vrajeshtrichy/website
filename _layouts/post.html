@@ -38,7 +38,7 @@ layout: default
     {% if page.categories.size > 0 and site.show_tags %}
       <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i>
       {% for category in  page.categories  %}
-        <a class="category-tags-link" href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+        <a class="category-tags-link" href="#">{{category}}</a>
         {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
       </p>
@@ -56,7 +56,7 @@ layout: default
     {% if page.cover %}
       <img src="{{page.cover | relative_url }}" style="width:100%"/>
     {% endif -%}
-    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=607a88d1f94d5c00182f2b41&product=inline-share-buttons" async="async"></script>
+    <script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=666f068fb0525700193aee18&product=inline-share-buttons&source=platform" async="async"></script>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -73,11 +73,6 @@ layout: default
   <div class="sharethis-inline-share-buttons" style = "margin-top: 3px;"></div>
 
   <br>
-
-  You can also buy me a cup of tea to support my work. Thanks!
-  <div class="tea">
-    <a href="https://www.buymeacoffee.com/kozodoi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me tea &emoji=&slug=kozodoi&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" align="left"></a>
-  </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 

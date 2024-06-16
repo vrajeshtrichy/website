@@ -21,5 +21,10 @@
             {{ words | divided_by:180 }} min read
           {% endif %}
         </p>
+        <h3> Highlights </h3>
+        <p class="post-meta-description">{{ post.highlights }}</p>
+        <span id="dots1"><p></p></span>
+        
+        <button class="btn" onclick="window.open('https://github.com/{{site.github_username}}/{{post.github_repo}}')" type="button">&#128187; GitHub repo</button>
       </div>
   </div>
