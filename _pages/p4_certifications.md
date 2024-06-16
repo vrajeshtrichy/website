@@ -300,7 +300,7 @@ Implement generative AI solutions</span></li>
   <span id="dots14"></span>
   <li><span id="abs14"><p></p><b>Summary:</b> Foundation in 3DS Max </span></li>
   <li>
-    <button class="btn" onclick="show_summary(dots_id = 'dots14', abs_id = 'abs14', btn_id = 'b14')" id="b10">&#128220; Summary</button>
+    <button class="btn" onclick="show_summary(dots_id = 'dots14', abs_id = 'abs14', btn_id = 'b14')" id="b14">&#128220; Summary</button>
   </li>
 </ul>
 <p></p>
