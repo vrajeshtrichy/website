@@ -64,7 +64,7 @@ html[data-theme = "light"] {
     border-color: var(--overlay-light)
 }
 
-html, body, input, textarea, select, button {
+html, body, input, textarea, select, button, p {
   color: var(--high-emph) !important;
   background-color: var(--back-color) !important;
 }
