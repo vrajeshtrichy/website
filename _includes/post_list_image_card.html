@@ -11,18 +11,8 @@
           </a>
         </h3>
         <p class="post-meta-description">{{ post.description }}</p>
-        <p class="post-meta" style = "font-size: 15px; color: var(--low-emph);">
-          {{ post.date | date: date_format }}
-          &middot;
-          {% assign words = post.content | strip_html | number_of_words %}
-          {% if words < 360 %}
-            1 min read
-          {% else %}
-            {{ words | divided_by:180 }} min read
-          {% endif %}
-        </p>
         <h3> Highlights </h3>
-        <p class="post-meta-description">{{ post.highlights }}</p>
+        <p class="post-meta-description" style="font-size: 14px;">{{ post.highlights }}</p>
         <span id="dots1"><p></p></span>
         
         <button class="btn" onclick="window.open('https://github.com/{{site.github_username}}/{{post.github_repo}}')" type="button">&#128187; GitHub repo</button>
