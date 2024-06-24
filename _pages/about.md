@@ -68,7 +68,6 @@ I am also happy to connect on different social and professional platforms. Click
 <div class="social-links" align = "left">
   <ul class = "badge-list">
     <li><a href="https://www.linkedin.com/in/vrajeshtrichy/"><img src="https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vrajeshtrichy/"/></a></li>
-    <!-- <li><a href="https://x.com/Xbot_RK"><img src="https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://x.com/Xbot_RK"/></a></li> -->
     <li><a href="https://github.com/vrajeshtrichy"><img src="https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/vrajeshtrichy"/></a></li>
   </ul>
 </div>
