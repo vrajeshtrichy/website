@@ -6,8 +6,8 @@ badges: true
 comments: true
 author: Rajesh Kanna V
 categories: [machine learning, natural language processing, deep learning]
-image: images/posts/RajeshProfilePic2.jpg
-cover: images/covers/RajeshProfilePic2.jpg
+image: images/portfolio/p5_fig_01.webp
+cover: images/portfolio/p5_fig_02.jpg
 layout: notebook
 permalink: /blog/:year:month:day/dutch-english-translation
 sticky_rank: 2

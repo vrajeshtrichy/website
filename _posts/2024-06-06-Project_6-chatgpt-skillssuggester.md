@@ -6,8 +6,8 @@ badges: true
 comments: true
 author: Rajesh Kanna V
 categories: [generative ai, natural language processing, django, web app, prompt engineering]
-image: images/posts/RajeshProfilePic2.jpg
-cover: images/covers/RajeshProfilePic2.jpg
+image: images/portfolio/fig_GPT.png
+cover: images/portfolio/p6_fig_01.png
 layout: notebook
 permalink: /blog/:year:month:day/chatgpt-skillssuggester
 sticky_rank: 1
@@ -20,7 +20,7 @@ highlights:
   <li> It's designed to help users discover relevant skills for specific job roles, making it a valuable tool for career development and job preparation. </li>
   </ul>
 ---
-# MachineLearning_ChatGPT_SkillsSuggester with Django
+# GPT-3 model Prompt Engineering - Django Web App POC
 
 ## Table of Contents
 
@@ -38,7 +38,7 @@ highlights:
 
 The MachineLearning_ChatGPT_SkillsSuggester is a Django project that uses OpenAI's GPT-3 model to suggest skills for a given role. It's designed to help users discover relevant skills for specific job roles, making it a valuable tool for career development and job preparation.
 
-![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result2.png "Results for AI Engineer")
+![alt text](http://127.0.0.1:4000/images/portfolio/p6_fig_01.png "Results for AI Engineer")
 
 ---
 
@@ -104,15 +104,15 @@ Model: text-davinci-003
 ### Demo
 
 #### Home Page
-![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result1.png "Searching")
+![alt text](http://127.0.0.1:4000/images/portfolio/p6_fig_02.png "Searching")
 
 #### For: "AI Engineer"
 
-![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result2.png "Results for AI Engineer")
+![alt text](http://127.0.0.1:4000/images/portfolio/p6_fig_03.png "Results for AI Engineer")
 
 #### For: "Communications Officer"
 
-![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result3.png "Results for Communications Officer")
+![alt text](http://127.0.0.1:4000/images/portfolio/p6_fig_04.png "Results for Communications Officer")
 
 ---
 
