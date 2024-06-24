@@ -13,7 +13,7 @@ permalink: /portfolio/
   <div style="width:100%;height:0; padding-top:50%; overflow: hidden; position:relative;">
     <img src="../images/menu/photo_portfolio.jpg" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
   </div>  
-  <div class="content">
+  <div class="content" style="position:absolute;">
     <h1>Portfolio</h1>
     <p><span class="cover-desc">My portfolio showcases a variety of machine learning projects spanning Generative AI, Large Language Models (LLMs), Latural Language Processing (NLP), Recommendation Systems, Computer Vision and applications with tabular data. To explore more of my work, you can visit my <a href="https://github.com/vrajeshtrichy">GitHub page</a>, download my <a href="http://127.0.0.1:4000/cv.pdf">Resume</a> or navigate to <a href="http://127.0.0.1:4000/about/">about</a> page.</span></p>
   </div>

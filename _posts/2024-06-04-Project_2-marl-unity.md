@@ -6,8 +6,8 @@ badges: true
 comments: true
 author: Rajesh Kanna V
 categories: [reinforcement learning, unity engine, unity ml-agents]
-image: images/posts/RajeshProfilePic2.jpg
-cover: images/covers/RajeshProfilePic2.jpg
+image: images/portfolio/fig_UnityML.jpg
+cover: images/portfolio/p2_fig_01.png
 layout: notebook
 permalink: /blog/:year:month:day/marl-with-unity-ml-agents
 sticky_rank: 1

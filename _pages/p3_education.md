@@ -8,7 +8,7 @@ permalink: /education/
 
 <div class="container">
   <div style="width:100%;height:0; padding-top:50%;position:relative;">
-    <img src="../images/menu/photo_backup.jpg" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
+    <img src="../images/menu/photo_education.jpg" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
   </div>  
   <div class="content">
     <h1>Education</h1>
@@ -47,7 +47,7 @@ permalink: /education/
     <a id='PART_0'></a>
     <div class="Box box-shadow-medium rounded-1 col-15">
       <div class="col-3 d-table-cell p-4 v-align-middle">
-        <img class="image-preview " src="../images/menu/RajeshProfilePic2.jpg" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
+        <img class="image-preview " src="../images/education/fig_mit.png" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
       </div>
       <div class="col-11 d-table-cell p-3 h-align-left">
         <h3><a class="post-link" href="#PART_0">MIT Professional Education</a></h3>
@@ -79,7 +79,7 @@ permalink: /education/
     <a id='PART_1'></a>
     <div class="Box box-shadow-medium rounded-1 col-15">
       <div class="col-3 d-table-cell p-4 v-align-middle">
-        <img class="image-preview " src="../images/menu/RajeshProfilePic2.jpg" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
+        <img class="image-preview " src="../images/education/fig_uob.png" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
       </div>
       <div class="col-11 d-table-cell p-3 h-align-left">
         <h3><a class="post-link" href="#PART_1">University of Birmingham</a></h3>
@@ -111,7 +111,7 @@ permalink: /education/
     <a id='PART_2'></a>
     <div class="Box box-shadow-medium rounded-1 col-15">
       <div class="col-3 d-table-cell p-4 v-align-middle">
-        <img class="image-preview " src="../images/menu/RajeshProfilePic2.jpg" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
+        <img class="image-preview " src="../images/education/fig_sastra.jpg" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
       </div>
       <div class="col-11 d-table-cell p-3 h-align-left">
         <h3><a class="post-link" href="#PART_2">SASTRA University</a></h3>

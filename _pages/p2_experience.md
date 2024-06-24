@@ -8,7 +8,7 @@ permalink: /experience/
 
 <div class="container">
   <div style="width:100%;height:0; padding-top:50%;position:relative;">
-    <img src="../images/menu/photo_backup.jpg" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
+    <img src="../images/experience/fig_desktop.png" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
   </div>  
   <div class="content">
     <h1>Experience</h1>
@@ -47,13 +47,13 @@ permalink: /experience/
     <a id='PART_0'></a>
     <div class="Box box-shadow-medium rounded-1 col-15">
       <div class="col-3 d-table-cell p-4 v-align-middle">
-        <img class="image-preview " src="../images/menu/RajeshProfilePic2.jpg" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
+        <img class="image-preview " src="../images/experience/fig_amazon.png" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
       </div>
       <div class="col-11 d-table-cell p-3 h-align-left">
         <h3><a class="post-link" href="#">Amazon</a></h3>
         <p class="post-meta-description">Birmingham, United Kingdom</p>
         <p class="post-meta" style = "font-size: 15px; color: var(--low-emph);">
-        10-2017 - Present
+        10-2023 - Present
         </p>
         <h4> AR Process Guide </h4>
         <p class="post-meta-description">
@@ -78,7 +78,7 @@ permalink: /experience/
     <a id='PART_1'></a>
     <div class="Box box-shadow-medium rounded-1 col-15">
       <div class="col-3 d-table-cell p-4 v-align-middle">
-        <img class="image-preview " src="../images/menu/RajeshProfilePic2.jpg" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
+        <img class="image-preview " src="../images/experience/fig_tcs.jpg" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
       </div>
       <div class="col-11 d-table-cell p-3 h-align-left">
         <h3><a class="post-link" href="#">TATA Consultancy Services</a></h3>
@@ -109,7 +109,7 @@ permalink: /experience/
     <a id='PART_2'></a>
     <div class="Box box-shadow-medium rounded-1 col-15">
       <div class="col-3 d-table-cell p-4 v-align-middle">
-        <img class="image-preview " src="../images/menu/RajeshProfilePic2.jpg" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
+        <img class="image-preview " src="../images/experience/fig_tvs_wheels.jpeg" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
       </div>
       <div class="col-11 d-table-cell p-3 h-align-left">
         <h3><a class="post-link" href="#">TVS Wheels India Limited</a></h3>
@@ -140,7 +140,7 @@ permalink: /experience/
     <a id='PART_3'></a>
     <div class="Box box-shadow-medium rounded-1 col-15">
       <div class="col-3 d-table-cell p-4 v-align-middle">
-        <img class="image-preview " src="../images/menu/RajeshProfilePic2.jpg" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
+        <img class="image-preview " src="../images/experience/fig_spf.png" style = "margin-left:-10px; margin-top:-10px; margin-bottom:-10px; border: 2px solid #555;"/>
       </div>
       <div class="col-11 d-table-cell p-3 h-align-left">
         <h3><a class="post-link" href="#">Shanmuga Precision Forging</a></h3>

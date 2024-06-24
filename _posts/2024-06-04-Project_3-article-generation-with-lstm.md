@@ -6,8 +6,8 @@ badges: true
 comments: true
 author: Rajesh Kanna V
 categories: [generative ai, natural language processing]
-image: images/posts/RajeshProfilePic2.jpg
-cover: images/covers/RajeshProfilePic2.jpg
+image: images/portfolio/fig_TensorFlow_Keras.png
+cover: images/portfolio/p3_fig_01.png
 layout: notebook
 permalink: /blog/:year:month:day/article-generation-with-lstm
 sticky_rank: 2

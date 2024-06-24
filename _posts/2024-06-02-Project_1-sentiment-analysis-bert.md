@@ -6,8 +6,8 @@ badges: true
 comments: true
 author: Rajesh Kanna V
 categories: [fine-tuning, natural language processing, transformer]
-image: images/posts/RajeshProfilePic2.jpg
-cover: images/covers/RajeshProfilePic2.jpg
+image: images/portfolio/fig_HuggingFace.png
+cover: images/portfolio/p1_fig_01.png
 layout: notebook
 permalink: /blog/:year:month:day/sentiment-analysis-bert
 sticky_rank: 2

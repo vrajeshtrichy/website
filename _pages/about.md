@@ -8,7 +8,7 @@ permalink: /about/
 
 <div class="container">
   <div style="width:100%;height:0; padding-top:50%; overflow: hidden; position:relative;">
-    <img src="../images/menu/photo_about.jpg" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
+    <img src="../images/menu/fig_rajesh_about.png" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
   </div>  
   <div class="content">
     <h1>Hi, I am Rajesh!</h1>
@@ -24,7 +24,7 @@ permalink: /about/
 <!----------------------------------------------------------------------------->
 ## About me
 
-I am a Data Scientist with a Master of Science in AI & Machine Learning and certified expertise in Azure. With rich experience in diverse areas of ML, including Natural Language Processing (NLP), Computer Vision, and Generative AI, I am dedicated to using AI to solve challenging business problems and create value.
+I am a Data Scientist & Full-Stack Developer with a Master of Science in AI & Machine Learning and certified expertise in Azure. With rich experience in diverse areas of ML, including Natural Language Processing (NLP), Computer Vision, and Generative AI, I am dedicated to using AI to solve challenging business problems and create value.
 
 Currently, I work at Amazon, where I oversee and optimize the operations of Amazon Robotics, ensuring efficient functioning and resolving critical issues promptly. Before Amazon, I worked at TATA Consultancy Services (TCS) as a Senior ML Engineer, leading end-to-end AI/ML solutions for global clients in the Travel, Transportation, and Hospitality sectors. My projects ranged from optimizing last-mile logistics and enhancing parcel distribution accuracy to developing personalized travel recommendation systems and AI-powered chatbots.
 
@@ -68,7 +68,7 @@ I am also happy to connect on different social and professional platforms. Click
 <div class="social-links" align = "left">
   <ul class = "badge-list">
     <li><a href="https://www.linkedin.com/in/vrajeshtrichy/"><img src="https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vrajeshtrichy/"/></a></li>
-    <li><a href="https://x.com/Xbot_RK"><img src="https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://x.com/Xbot_RK"/></a></li>
+    <!-- <li><a href="https://x.com/Xbot_RK"><img src="https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://x.com/Xbot_RK"/></a></li> -->
     <li><a href="https://github.com/vrajeshtrichy"><img src="https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=https://github.com/vrajeshtrichy"/></a></li>
   </ul>
 </div>

@@ -6,8 +6,8 @@ badges: true
 comments: true
 author: Rajesh Kanna V
 categories: [generative ai, natural language processing]
-image: images/posts/RajeshProfilePic2.jpg
-cover: images/covers/RajeshProfilePic2.jpg
+image: images/portfolio/fig_HuggingFace.png
+cover: images/portfolio/p4_fig_01.png
 layout: notebook
 permalink: /blog/:year:month:day/text-summarization-bert-t5-gpt2-xlnet
 sticky_rank: 1

@@ -10,7 +10,7 @@ permalink: /certifications/
   <div style="width:100%;height:0; padding-top:50%; overflow: hidden; position:relative;">
     <img src="../images/menu/fig_books.jpg" style="width:100%; opacity:0.8; position:absolute; top:0; left:0">
   </div>  
-  <div class="content">
+  <div class="content" style="position:absolute;">
     <h1>Certifications</h1>
     <p><span class="cover-desc" style="color:var(--page-desc-color)">This page provides a list of certifications and courses I completed. Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
   </div>
