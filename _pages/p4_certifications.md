@@ -27,7 +27,7 @@ permalink: /certifications/
   <p>This page overviews my certifications and courses:</p>
 
   <ul style="margin-top: -10px;">
-  <li> &#9729; <a href="#PART_0">Large Language Models (LLMs) and Natural Language Processing (NLP) </a></li>
+  <li> &#9729; <a href="#PART_0">Generative AI and Natural Language Processing (NLP) </a></li>
   <li> &#129302; <a href="#PART_1">Machine learning and AI</a></li>
   <li> &#128187; <a href="#PART_2">Coding </a></li>
   <li> &#128190; <a href="#PART_3">Product Design and Analysis </a></li>
@@ -123,38 +123,6 @@ permalink: /certifications/
 
 <ul>
     <li>
-    <b>MLOps Essentials: Model Development and Integration</b>
-    <dd><bb>Issued by LinkedIn</bb></dd>
-    </li>
-</ul>
-<ul class="no-bullets">
-  <span id="dots5"></span>
-  <li><span id="abs5"><p></p><b>Summary:</b> LMLOps Essentials: Model Development and Integration</span></li>
-  <li>
-    <button class="btn" onclick="show_summary(dots_id = 'dots5', abs_id = 'abs5', btn_id = 'b5')" id="b5">&#128220; Summary</button>
-    <button class="btn" onclick="window.open('https://www.linkedin.com/learning/certificates/0eb7163fc8ecd89bfcf27f59b63cdeb658bf3dc83ff275a02dcc217a37a10027?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrpjxG8ExQkOyekmtyzFStw%3D%3D')" type="button">&#127891; Certificate</button>
-  </li>
-</ul>
-<p></p>
-
-<ul>
-    <li>
-    <b>Machine Learning for iOS: Core ML and Create ML</b>
-    <dd><bb>Issued by LinkedIn</bb></dd>
-    </li>
-</ul>
-<ul class="no-bullets">
-  <span id="dots6"></span>
-  <li><span id="abs6"><p></p><b>Summary:</b> Machine Learning for iOS: Core ML and Create ML</span></li>
-  <li>
-    <button class="btn" onclick="show_summary(dots_id = 'dots6', abs_id = 'abs6', btn_id = 'b6')" id="b6">&#128220; Summary</button>
-    <button class="btn" onclick="window.open('https://www.linkedin.com/learning/certificates/a653a8e0536ab914674b308183ea68b993c3421ebde41c8abee5f6d498d4b8d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrpjxG8ExQkOyekmtyzFStw%3D%3D')" type="button">&#127891; Certificate</button>
-  </li>
-</ul>
-<p></p>
-
-<ul>
-    <li>
     <b>Microsoft Certified: Azure AI Engineer Associate</b>
     <dd><bb>Issued by Microsoft</bb></dd>
     </li>
@@ -186,6 +154,38 @@ Implement generative AI solutions</span></li>
   <li>
     <button class="btn" onclick="show_summary(dots_id = 'dots8', abs_id = 'abs8', btn_id = 'b8')" id="b8">&#128220; Summary</button>
     <button class="btn" onclick="window.open('https://www.credly.com/badges/b3d4d10b-fb65-44aa-acc9-8096e65124ab/linked_in_profile')" type="button">&#127891; Certificate</button>
+  </li>
+</ul>
+<p></p>
+
+<ul>
+    <li>
+    <b>MLOps Essentials: Model Development and Integration</b>
+    <dd><bb>Issued by LinkedIn</bb></dd>
+    </li>
+</ul>
+<ul class="no-bullets">
+  <span id="dots5"></span>
+  <li><span id="abs5"><p></p><b>Summary:</b> LMLOps Essentials: Model Development and Integration</span></li>
+  <li>
+    <button class="btn" onclick="show_summary(dots_id = 'dots5', abs_id = 'abs5', btn_id = 'b5')" id="b5">&#128220; Summary</button>
+    <button class="btn" onclick="window.open('https://www.linkedin.com/learning/certificates/0eb7163fc8ecd89bfcf27f59b63cdeb658bf3dc83ff275a02dcc217a37a10027?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrpjxG8ExQkOyekmtyzFStw%3D%3D')" type="button">&#127891; Certificate</button>
+  </li>
+</ul>
+<p></p>
+
+<ul>
+    <li>
+    <b>Machine Learning for iOS: Core ML and Create ML</b>
+    <dd><bb>Issued by LinkedIn</bb></dd>
+    </li>
+</ul>
+<ul class="no-bullets">
+  <span id="dots6"></span>
+  <li><span id="abs6"><p></p><b>Summary:</b> Machine Learning for iOS: Core ML and Create ML</span></li>
+  <li>
+    <button class="btn" onclick="show_summary(dots_id = 'dots6', abs_id = 'abs6', btn_id = 'b6')" id="b6">&#128220; Summary</button>
+    <button class="btn" onclick="window.open('https://www.linkedin.com/learning/certificates/a653a8e0536ab914674b308183ea68b993c3421ebde41c8abee5f6d498d4b8d8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrpjxG8ExQkOyekmtyzFStw%3D%3D')" type="button">&#127891; Certificate</button>
   </li>
 </ul>
 <p></p>
@@ -249,6 +249,21 @@ Implement generative AI solutions</span></li>
 
 <ul>
     <li>
+    <b>Data Structures and Algorithms with Python</b>
+    <dd><bb>Issued by Codecademy</bb></dd>
+    </li>
+</ul>
+<ul class="no-bullets">
+  <span id="dots13"></span>
+  <li><span id="abs13"><p></p><b>Summary:</b> Reviewed basic data structures and algorithms and extensively practiced their implementation in Python. Practiced analyzing running and memory complexity of different data structures and algorithms. </span></li>
+  <li>
+    <button class="btn" onclick="show_summary(dots_id = 'dots13', abs_id = 'abs13', btn_id = 'b13')" id="b13">&#128220; Summary</button>
+  </li>
+</ul>
+<p></p>
+
+<ul>
+    <li>
     <b>Java Developer Certification
 </b>
     <dd><bb>Issued by Oracle</bb></dd>
@@ -260,21 +275,6 @@ Implement generative AI solutions</span></li>
   <li>
     <button class="btn" onclick="show_summary(dots_id = 'dots12', abs_id = 'abs12', btn_id = 'b12')" id="b12">&#128220; Summary</button>
     <button class="btn" onclick="window.open('https://coursera.org/share/b457743d18ad9a6bc41f2b1a1c62cddb')" type="button">&#127891; Certificate</button>
-  </li>
-</ul>
-<p></p>
-
-<ul>
-    <li>
-    <b>Data Structures and Algorithms with Python</b>
-    <dd><bb>Issued by Codecademy</bb></dd>
-    </li>
-</ul>
-<ul class="no-bullets">
-  <span id="dots13"></span>
-  <li><span id="abs13"><p></p><b>Summary:</b> Reviewed basic data structures and algorithms and extensively practiced their implementation in Python. Practiced analyzing running and memory complexity of different data structures and algorithms. </span></li>
-  <li>
-    <button class="btn" onclick="show_summary(dots_id = 'dots13', abs_id = 'abs13', btn_id = 'b13')" id="b13">&#128220; Summary</button>
   </li>
 </ul>
 <p></p>

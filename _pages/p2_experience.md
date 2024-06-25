@@ -28,7 +28,7 @@ permalink: /experience/
 
   <ul style="margin-top: -10px;">
   <li> &#9729; <a href="#PART_0">AR Process Guide @ Amazon </a></li>
-  <li> &#129302; <a href="#PART_1">Data Scientist & Full-Stack Developer @ TATA Consultancy Services - </a></li>
+  <li> &#129302; <a href="#PART_1">Full-Stack Data Scientist @ TATA Consultancy Services - </a></li>
   <li> &#128187; <a href="#PART_2">Manufacturing Engineer - Intern @ TVS Wheels India Limited </a></li>
   <li> &#128187; <a href="#PART_3">Manufacturing Engineer - Intern @ Shanmuga Precision Forging </a></li>
   </ul>
@@ -86,10 +86,10 @@ permalink: /experience/
         <p class="post-meta" style = "font-size: 15px; color: var(--low-emph);">
         06-2017 to 10-2021
         </p>
-        <h4> Data Scientist & Full-Stack Developer </h4>
+        <h4> Full-Stack Data Scientist </h4>
         <p class="post-meta-description">
           <ul>
-            <li> At TCS, I led end-to-end development of AI/ML solutions for global clients in the Travel, Transportation, and Hospitality sectors.
+            <li> At TCS, I led the development of AI/ML solutions for global clients in the Travel, Transportation, and Hospitality sectors.
             </li>
           </ul>
         </p>
