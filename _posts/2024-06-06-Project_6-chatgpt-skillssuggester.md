@@ -38,7 +38,7 @@ highlights:
 
 The MachineLearning_ChatGPT_SkillsSuggester is a Django project that uses OpenAI's GPT-3 model to suggest skills for a given role. It's designed to help users discover relevant skills for specific job roles, making it a valuable tool for career development and job preparation.
 
-![alt text](http://127.0.0.1:4000/images/portfolio/p6_fig_01.png "Results for AI Engineer")
+![alt text](https://vrajeshtrichy.github.io/website/images/portfolio/p6_fig_01.png "Results for AI Engineer")
 
 ---
 
@@ -104,15 +104,15 @@ Model: text-davinci-003
 ### Demo
 
 #### Home Page
-![alt text](http://127.0.0.1:4000/images/portfolio/p6_fig_02.png "Searching")
+![alt text](https://vrajeshtrichy.github.io/website/images/portfolio/p6_fig_02.png "Searching")
 
 #### For: "AI Engineer"
 
-![alt text](http://127.0.0.1:4000/images/portfolio/p6_fig_03.png "Results for AI Engineer")
+![alt text](https://vrajeshtrichy.github.io/website/images/portfolio/p6_fig_03.png "Results for AI Engineer")
 
 #### For: "Communications Officer"
 
-![alt text](http://127.0.0.1:4000/images/portfolio/p6_fig_04.png "Results for Communications Officer")
+![alt text](https://vrajeshtrichy.github.io/website/images/portfolio/p6_fig_04.png "Results for Communications Officer")
 
 ---
 

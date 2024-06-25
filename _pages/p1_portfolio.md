@@ -15,11 +15,11 @@ permalink: /portfolio/
   </div>  
   <div class="content" style="position:absolute;">
     <h1>Portfolio</h1>
-    <p><span class="cover-desc">My portfolio showcases a variety of machine learning projects spanning Generative AI, Large Language Models (LLMs), Latural Language Processing (NLP), Recommendation Systems, Computer Vision and applications with tabular data. To explore more of my work, you can visit my <a href="https://github.com/vrajeshtrichy">GitHub page</a>, download my <a href="http://127.0.0.1:4000/cv.pdf">Resume</a> or navigate to <a href="http://127.0.0.1:4000/about/">about</a> page.</span></p>
+    <p><span class="cover-desc">My portfolio showcases a variety of machine learning projects spanning Generative AI, Large Language Models (LLMs), Latural Language Processing (NLP), Recommendation Systems, Computer Vision and applications with tabular data. To explore more of my work, you can visit my <a href="https://github.com/vrajeshtrichy">GitHub page</a>, download my <a href="https://vrajeshtrichy.github.io/website/cv.pdf">Resume</a> or navigate to <a href="https://vrajeshtrichy.github.io/website/about/">about</a> page.</span></p>
   </div>
 </div>
 
-<p><span class="page-desc">My portfolio showcases a variety of machine learning projects spanning Generative AI, Large Language Models (LLMs), Natural Language Processing (NLP), Recommendation Systems, Computer Vision and applications with tabular data. To explore more of my work, you can visit my <a href="https://github.com/vrajeshtrichy">GitHub page</a>, download my <a href="http://127.0.0.1:4000/cv.pdf">Resume</a> or navigate to <a href="http://127.0.0.1:4000/about/">about</a> page.</span></p>
+<p><span class="page-desc">My portfolio showcases a variety of machine learning projects spanning Generative AI, Large Language Models (LLMs), Natural Language Processing (NLP), Recommendation Systems, Computer Vision and applications with tabular data. To explore more of my work, you can visit my <a href="https://github.com/vrajeshtrichy">GitHub page</a>, download my <a href="https://vrajeshtrichy.github.io/website/cv.pdf">Resume</a> or navigate to <a href="https://vrajeshtrichy.github.io/website/about/">about</a> page.</span></p>
 
 
 <!----------------------------------------------------------------------------->

@@ -12,12 +12,12 @@ permalink: /about/
   </div>  
   <div class="content">
     <h1>Hi, I am Rajesh!</h1>
-    <p><span class="cover-desc" style="color:var(--page-desc-color)">Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
+    <p><span class="cover-desc" style="color:var(--page-desc-color)">Click <a href="https://vrajeshtrichy.github.io/website/cv.pdf">here</a> to download my Resume and check out <a href="https://vrajeshtrichy.github.io/website/portfolio/">my portfolio</a> to see my work.</span></p>
   </div>
 </div>
 
 <p>
-<span class="page-desc">Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span>
+<span class="page-desc">Click <a href="https://vrajeshtrichy.github.io/website/cv.pdf">here</a> to download my Resume and check out <a href="https://vrajeshtrichy.github.io/website/portfolio/">my portfolio</a> to see my work.</span>
 </p>
 
 
@@ -30,7 +30,7 @@ Currently, I work at Amazon, where I oversee and optimize the operations of Amaz
 
 In my free time, I enjoy self-learning and development through online courses, hackathons, and personal projects, often publishing my work on platforms like Hugging Face and GitHub.
 
-<!-- <button class="btn" onclick="window.open('http://127.0.0.1:4000/cv.pdf')"><i class="fas fa-download"></i>  Curriculum Vitae</button> -->
+<!-- <button class="btn" onclick="window.open('https://vrajeshtrichy.github.io/website/cv.pdf')"><i class="fas fa-download"></i>  Curriculum Vitae</button> -->
 
 <hr style="height:1px; visibility:hidden;" />
 <hr style="height:1px;border-width:0;color:rgb(50,50,50);background-color:rgb(50,50,50)">
@@ -38,19 +38,19 @@ In my free time, I enjoy self-learning and development through online courses, h
 <!----------------------------------------------------------------------------->
 ## About this website
 
-This website hosts [Portfolio](http://127.0.0.1:4000/portfolio/), where I share interesting ML project findings. All opinions published here are my own. The website includes different sections featuring my work:
+This website hosts [Portfolio](https://vrajeshtrichy.github.io/website/portfolio/), where I share interesting ML project findings. All opinions published here are my own. The website includes different sections featuring my work:
 
-- &#128193; [Portfolio](http://127.0.0.1:4000/portfolio/) with ML projects on different topics
+- &#128193; [Portfolio](https://vrajeshtrichy.github.io/website/portfolio/) with ML projects on different topics
 
-- &#128188; [Professional Experience](http://127.0.0.1:4000/experience/) with Projects Overview and Domain
+- &#128188; [Professional Experience](https://vrajeshtrichy.github.io/website/experience/) with Projects Overview and Domain
 
-- &#127891; [Education](http://127.0.0.1:4000/education/) with Educational Qualifications
+- &#127891; [Education](https://vrajeshtrichy.github.io/website/education/) with Educational Qualifications
 
-- &#127942; [Certifications](http://127.0.0.1:4000/certifications/) with Certificates and Completed Courses
+- &#127942; [Certifications](https://vrajeshtrichy.github.io/website/certifications/) with Certificates and Completed Courses
 
-<!-- - &#128483; [tech talks](http://127.0.0.1:4000/talks/) with links to presentation slides and talk videos -->
-<!-- - &#128218; [ML publications](http://127.0.0.1:4000/papers/) with paper abstracts and full-text PDFs -->
-<!-- - &#129351; [Kaggle solutions](http://127.0.0.1:4000/kaggle/) with links to code and write-ups -->
+<!-- - &#128483; [tech talks](https://vrajeshtrichy.github.io/website/talks/) with links to presentation slides and talk videos -->
+<!-- - &#128218; [ML publications](https://vrajeshtrichy.github.io/website/papers/) with paper abstracts and full-text PDFs -->
+<!-- - &#129351; [Kaggle solutions](https://vrajeshtrichy.github.io/website/kaggle/) with links to code and write-ups -->
 
 <br>
 

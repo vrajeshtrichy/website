@@ -13,12 +13,12 @@ permalink: /education/
   <div class="content">
     <h1>Education</h1>
     <p><span class="cover-desc" style="color:var(--page-desc-color)">My education has provided a solid foundation and deep expertise in AI and Machine Learning, spanning prestigious institutions and comprehensive specializations.
-    Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
+    Click <a href="https://vrajeshtrichy.github.io/website/cv.pdf">here</a> to download my Resume and check out <a href="https://vrajeshtrichy.github.io/website/portfolio/">my portfolio</a> to see my work.</span></p>
   </div>
 </div>
 
 <p><span class="page-desc">My education has provided a solid foundation and deep expertise in AI and Machine Learning, spanning prestigious institutions and comprehensive specializations.
-    Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
+    Click <a href="https://vrajeshtrichy.github.io/website/cv.pdf">here</a> to download my Resume and check out <a href="https://vrajeshtrichy.github.io/website/portfolio/">my portfolio</a> to see my work.</span></p>
 
 <!----------------------------------------------------------------------------->
 

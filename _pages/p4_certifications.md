@@ -12,11 +12,11 @@ permalink: /certifications/
   </div>  
   <div class="content" style="position:absolute;">
     <h1>Certifications</h1>
-    <p><span class="cover-desc" style="color:var(--page-desc-color)">This page provides a list of certifications and courses I completed. Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
+    <p><span class="cover-desc" style="color:var(--page-desc-color)">This page provides a list of certifications and courses I completed. Click <a href="https://vrajeshtrichy.github.io/website/cv.pdf">here</a> to download my Resume and check out <a href="https://vrajeshtrichy.github.io/website/portfolio/">my portfolio</a> to see my work.</span></p>
   </div>
 </div>
 
-<p><span class="page-desc">This page provides a list of certifications and courses I completed. Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
+<p><span class="page-desc">This page provides a list of certifications and courses I completed. Click <a href="https://vrajeshtrichy.github.io/website/cv.pdf">here</a> to download my Resume and check out <a href="https://vrajeshtrichy.github.io/website/portfolio/">my portfolio</a> to see my work.</span></p>
 
 <!----------------------------------------------------------------------------->
 

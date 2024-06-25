@@ -12,11 +12,11 @@ permalink: /experience/
   </div>  
   <div class="content">
     <h1>Experience</h1>
-    <p><span class="cover-desc" style="color:var(--page-desc-color)">My professional experience spans a variety of roles where I have leveraged my leadership skills in machine learning and artificial intelligence to drive impactful solutions and optimize operations. Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
+    <p><span class="cover-desc" style="color:var(--page-desc-color)">My professional experience spans a variety of roles where I have leveraged my leadership skills in machine learning and artificial intelligence to drive impactful solutions and optimize operations. Click <a href="https://vrajeshtrichy.github.io/website/cv.pdf">here</a> to download my Resume and check out <a href="https://vrajeshtrichy.github.io/website/portfolio/">my portfolio</a> to see my work.</span></p>
   </div>
 </div>
 
-<p><span class="page-desc">My professional experience spans a variety of roles where I have leveraged my leadership skills in machine learning and artificial intelligence to drive impactful solutions and optimize operations. Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span></p>
+<p><span class="page-desc">My professional experience spans a variety of roles where I have leveraged my leadership skills in machine learning and artificial intelligence to drive impactful solutions and optimize operations. Click <a href="https://vrajeshtrichy.github.io/website/cv.pdf">here</a> to download my Resume and check out <a href="https://vrajeshtrichy.github.io/website/portfolio/">my portfolio</a> to see my work.</span></p>
 
 <!----------------------------------------------------------------------------->
 
