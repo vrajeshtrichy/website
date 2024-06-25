@@ -57,7 +57,7 @@ permalink: /certifications/
   <li><span id="abs1"><p></p><b>Summary:</b> Large Language Models (LLM) · Machine Learning · Natural Language Processing (NLP) · Machine Learning Algorithms </span></li>
   <li>
     <button class="btn" onclick="show_summary(dots_id = 'dots1', abs_id = 'abs1', btn_id = 'b1')" id="b1">&#128220; Summary</button>
-    <button class="btn" onclick="window.open('https://coursera.org/share/2a8c5092ef241ea872a7a56689af38f1')" type="button">&#127891; Certificate</button>
+    <button class="btn" onclick="window.open('https://coursera.org/share/8f7e3de231d29b3faa200c81861fb881')" type="button">&#127891; Certificate</button>
   </li>
 </ul>
 <p></p>
