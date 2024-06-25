@@ -17,14 +17,14 @@ permalink: /about/
 </div>
 
 <p>
-<span class="page-desc">Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out my<a href="http://127.0.0.1:4000/portfolio/">portfolio</a> to see my work.</span>
+<span class="page-desc">Click <a href="http://127.0.0.1:4000/cv.pdf">here</a> to download my Resume and check out <a href="http://127.0.0.1:4000/portfolio/">my portfolio</a> to see my work.</span>
 </p>
 
 
 <!----------------------------------------------------------------------------->
 ## About me
 
-I am a Data Scientist & Full-Stack Developer with a Master of Science in AI & Machine Learning and certified expertise in Azure. With rich experience in diverse areas of ML, including Natural Language Processing (NLP), Computer Vision, and Generative AI, I am dedicated to using AI to solve challenging business problems and create value.
+I am a Full-Stack Data Scientist with a Master of Science in AI & Machine Learning and certified expertise in Azure. With rich experience in diverse areas of ML, including Natural Language Processing (NLP), Computer Vision, and Generative AI, I am dedicated to using AI to solve challenging business problems and create value.
 
 Currently, I work at Amazon, where I oversee and optimize the operations of Amazon Robotics, ensuring efficient functioning and resolving critical issues promptly. Before Amazon, I worked at TATA Consultancy Services (TCS) as a Senior ML Engineer, leading end-to-end AI/ML solutions for global clients in the Travel, Transportation, and Hospitality sectors. My projects ranged from optimizing last-mile logistics and enhancing parcel distribution accuracy to developing personalized travel recommendation systems and AI-powered chatbots.
 

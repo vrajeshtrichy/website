@@ -47,7 +47,7 @@ layout: default
     {% if page.layout == 'notebook' %}
       {% if page.badges or page.badges == nil %}
         <div class="pb-5 d-flex flex-wrap flex-justify-end">
-          {% include dark_mode_switch.html %}
+          <!-- {% include dark_mode_switch.html %} -->
           {% unless page.hide_github_badge or site.default_badges.github != true %}{% include notebook_github_link.html %}{% endunless %}
           {% unless page.hide_colab_badge or site.default_badges.colab != true %}{% include notebook_colab_link.html %}{% endunless %}
         </div>
@@ -76,6 +76,6 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 
-  <script src="/assets/js/mode_switcher.js"></script>
+  <!-- <script src="/assets/js/mode_switcher.js"></script> -->
 
 </article>
