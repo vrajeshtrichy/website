@@ -8,11 +8,11 @@ author: [Rajesh Kanna V](https://www.linkedin.com/in/vrajeshtrichy/)
 categories: [generative ai, natural language processing, RAG, OpenAI GPT, ElasticSearch, HuggingFace]
 image: images/portfolio/fig_RAG_GPT.png
 layout: notebook
-permalink: /blog/:year:month:day/chatgpt-skillssuggester
+permalink: /blog/:year:month:day/rag-gpt-restaurant
 sticky_rank: 1
 group: Machine Learning
-github_repo: MachineLearning_ChatGPT_SkillsSuggester
-project_id: PROJECT_6
+github_repo: HuggingFace-OpenAI_GPT-RAG-Restaurants
+project_id: PROJECT_7
 highlights: 
   <ul>
   <li> This project through building a Retrieval-Augmented Generation (RAG) powered by Elasticsearch (ES) and Hugging Face models, letting you toggle between ES-vectorising vs self-vectorising. </li>
@@ -20,7 +20,6 @@ highlights:
   </ul>
 ---
 
-# 
 
 ## Data sourcing and preparation
 
