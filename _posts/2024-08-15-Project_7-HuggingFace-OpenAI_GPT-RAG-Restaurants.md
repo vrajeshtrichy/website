@@ -1,5 +1,5 @@
 ---
-description:  This notebook walks you through building a Retrieval-Augmented Generation (RAG) powered by Elasticsearch (ES) and Hugging Face models, letting you toggle between ES-vectorising (your ES cluster vectorises for you when ingesting and querying) vs self-vectorising (you vectorise all your data before sending it to ES).
+description:  Retrieval-Augmented Generation (RAG) powered by Elasticsearch (ES), OpenAI GPT 4.0 and Hugging Face models.
 title: RAG system with OpenAI GPT 4.0, Elasticsearch and Hugging Face Models 
 toc: true
 badges: true
@@ -20,6 +20,7 @@ highlights:
   </ul>
 ---
 
+This notebook walks you through building a Retrieval-Augmented Generation (RAG) powered by Elasticsearch (ES) and Hugging Face models, letting you toggle between ES-vectorising (your ES cluster vectorises for you when ingesting and querying) vs self-vectorising (you vectorise all your data before sending it to ES).
 
 ## Data sourcing and preparation
 
