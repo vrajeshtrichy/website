@@ -4,7 +4,7 @@ title: RAG system with OpenAI GPT 4.0, Elasticsearch and Hugging Face Models
 toc: true
 badges: true
 comments: true
-author: [Rajesh Kanna V](https://www.linkedin.com/in/vrajeshtrichy/)
+author: Rajesh Kanna V
 categories: [generative ai, natural language processing, RAG, OpenAI GPT, ElasticSearch, HuggingFace]
 image: images/portfolio/fig_RAG_GPT.png
 layout: notebook
