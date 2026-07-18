@@ -2,14 +2,14 @@
 title: "Simulating the behavior of hummingbirds in a dynamic environment using Multi-agent reinforcement learning"
 layout: "simple"
 date: 2022-06-01
-summary: 
+summary:
   <ul>
   <li> This project is a multi-agent reinforcement learning environment built using Unity ML-Agents. </li>
   <li> It simulates the behavior of hummingbirds in a dynamic environment, where they learn to collect nectar from flowers through reinforcement learning. </li>
   </ul>
 topics: [reinforcement learning, unity engine, unity ml-agents]
 # description: ""
-_build:
+build:
   render: "false"
   list: "local"
 ---

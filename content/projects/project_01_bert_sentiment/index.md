@@ -2,14 +2,14 @@
 title: "Fine-Tuning (BERT) Transformers for Sentiment Analysis using IMDB Reviews"
 layout: "simple"
 date: 2022-06-01
-summary: 
+summary:
   <ul>
   <li> This project demonstrates text classification for sentiment analysis on the IMDB dataset. </li>
   <li> It uses Transformers and the BERT model for natural language processing. </li>
   </ul>
 topics: [fine-tuning, natural language processing, transformer]
 # description: ""
-_build:
+build:
   render: "false"
   list: "local"
 ---
