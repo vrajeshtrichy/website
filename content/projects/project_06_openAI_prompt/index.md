@@ -2,14 +2,14 @@
 title: "GPT-3 model Prompt Engineering - Django Web App POC"
 layout: "simple"
 date: 2022-06-01
-summary: 
+summary:
   <ul>
   <li> This Django project uses OpenAI's GPT-3 model to suggest skills for a given role. It's designed to help users discover relevant skills for specific job roles, making it a valuable tool for career development and job preparation. </li>
   <li> It's designed to help users discover relevant skills for specific job roles, making it a valuable tool for career development and job preparation. </li>
   </ul>
 topics: [generative ai, natural language processing, django, web app, prompt engineering]
 # description: ""
-_build:
+build:
   render: "false"
   list: "local"
 ---

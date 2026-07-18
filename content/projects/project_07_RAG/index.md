@@ -2,19 +2,19 @@
 title: "RAG system with OpenAI GPT 4.0, Elasticsearch and Hugging Face Models"
 layout: "simple"
 date: 2022-06-01
-summary: 
+summary:
   <ul>
   <li> This project through building a Retrieval-Augmented Generation (RAG) powered by Elasticsearch (ES) and Hugging Face models, letting you toggle between ES-vectorising vs self-vectorising. </li>
   <li> It's designed to help users discover restaurant options in popular cities in the US. </li>
   </ul>
 topics: [generative ai, natural language processing, RAG, OpenAI GPT, ElasticSearch, HuggingFace]
 # description: ""
-_build:
+build:
   render: "false"
   list: "local"
 ---
 
-<!-- 
+<!--
 description:  Retrieval-Augmented Generation (RAG) powered by Elasticsearch (ES), OpenAI GPT 4.0 and Hugging Face models.
 author: Rajesh Kanna V
 image: images/portfolio/fig_RAG_GPT.png
@@ -22,7 +22,7 @@ layout: notebook
 permalink: /blog/:year:month:day/rag-gpt-restaurant
 group: Machine Learning
 github_repo: HuggingFace-OpenAI_GPT-RAG-Restaurants
-project_id: PROJECT_7 
+project_id: PROJECT_7
 -->
 
 
@@ -47,7 +47,7 @@ If `USE_ELASTICSEARCH_VECTORISATION` is true, the text query is sent directly to
 Enter your search query: Suggest 5 non alcoholic Chinese restaurant in Queens
 
 
-########################################################## 
+##########################################################
 
 
 USER:  Suggest 5 non alcoholic Chinese restaurant in Queens

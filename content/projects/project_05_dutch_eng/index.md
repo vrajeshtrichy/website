@@ -2,13 +2,13 @@
 title: "Dutch to English translation using PyTorch and a Seq2Seq RNN model with attention"
 layout: "simple"
 date: 2022-06-01
-summary: 
+summary:
   <ul>
   <li> This machine translation project translates Dutch sentences into English using PyTorch and a Sequence-to-Sequence (Seq2Seq) Recurrent Neural Network (RNN) model with attention. </li>
   </ul>
 topics: [machine learning, natural language processing, deep learning]
 # description: ""
-_build:
+build:
   render: "false"
   list: "local"
 ---

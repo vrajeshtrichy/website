@@ -2,13 +2,13 @@
 title: "Fine-Tuning (BERT, T5, GPT2 and XLNet) Transformers for Summarization"
 layout: "simple"
 date: 2022-06-01
-summary: 
+summary:
   <ul>
   <li> This project focuses on text summarization using various NLP techniques. </li>
   </ul>
 topics: [generative ai, natural language processing]
 # description: ""
-_build:
+build:
   render: "false"
   list: "local"
 ---
