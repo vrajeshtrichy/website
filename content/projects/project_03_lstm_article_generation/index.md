@@ -2,14 +2,14 @@
 title: "Article Generation with TensorFlow-Keras LSTM"
 layout: "simple"
 date: 2022-06-01
-summary: 
+summary:
   <ul>
   <li> This project demonstrates text generation using Long Short-Term Memory (LSTM) networks with TensorFlow and Keras. </li>
   <li> It generates text based on a dataset of headlines from the New York Times. </li>
   </ul>
 topics: [generative ai, natural language processing]
 # description: ""
-_build:
+build:
   render: "false"
   list: "local"
 ---

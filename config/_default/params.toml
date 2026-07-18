@@ -5,14 +5,16 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
-colorScheme = "ocean"
+colorScheme = "congo"
 defaultAppearance = "light" # valid options: light or dark
-autoSwitchAppearance = false
-defaultThemeColor = "#007fff"
+autoSwitchAppearance = true
+
+defaultThemeColor = "#FFFFFF"
 
 enableSearch = false
 enableCodeCopy = false
 enableImageLazyLoading = true
+enableImageWebp = true
 
 # robots = ""
 fingerprintAlgorithm = "sha256"
@@ -25,40 +27,40 @@ fingerprintAlgorithm = "sha256"
 
 [footer]
   showCopyright = true
-  showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, custom
+  layout = "page" # valid options: page, profile, custom
   showRecent = false
   recentLimit = 5
 
 [article]
-  showDate = false
+  showDate = true
   showDateUpdated = false
-  showAuthor = false
+  showAuthor = true
   showBreadcrumbs = false
-  showDraftLabel = false
+  showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/egorhowell/testing_website/"
+  # editURL = "https://github.com/username/repo/"
   editAppendPath = true
-  showHeadingAnchors = false
-  showPagination = false
+  showHeadingAnchors = true
+  showPagination = true
   invertPagination = false
-  showReadingTime = false
+  showReadingTime = true
   showTableOfContents = false
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  #sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
+  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
 
 [list]
   showBreadcrumbs = false
   showSummary = false
   showTableOfContents = false
   showTaxonomies = false
-  groupByYear = false
+  groupByYear = true
   paginationWidth = 1
 
 [sitemap]
@@ -69,12 +71,15 @@ fingerprintAlgorithm = "sha256"
 
 [fathomAnalytics]
   # site = "ABC12345"
-  # domain = "llama.yoursite.com"
 
 [plausibleAnalytics]
   # domain = "blog.yoursite.com"
   # event = ""
   # script = ""
+
+#[umamiAnalytics]
+#  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+#  region = "eu"  # can be either "eu" or "us"
 
 [verification]
   # google = ""
