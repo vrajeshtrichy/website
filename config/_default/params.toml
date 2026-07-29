@@ -20,8 +20,8 @@ enableImageWebp = true
 fingerprintAlgorithm = "sha256"
 
 [header]
-layout = "basic" # valid options: basic, hamburger, hybrid, custom
-# logo = "img/logo.jpg"
+layout = "basic"                # valid options: basic, hamburger, hybrid, custom
+# logo = "img/rajesh_profile.png"
 # logoDark = "img/dark-logo.jpg"
 showTitle = true
 

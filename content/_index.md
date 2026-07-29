@@ -76,4 +76,4 @@ Docker • Kubernetes • GCP • AWS
 
 Interested in **Senior AI Engineer**, **Lead AI Engineer**, and **Senior Data Scientist** opportunities.
 
-➡️ Explore my **Projects** to see the engineering behind each solution.
+➡️ Explore my [**Projects**](/projects) to see the engineering behind each solution.

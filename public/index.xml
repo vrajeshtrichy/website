@@ -10,21 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Wed, 14 Jan 2026 07:07:07 +0100</lastBuildDate>
+			<lastBuildDate>Tue, 14 Jul 2026 07:07:07 +0100</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>My First Post</title>
-				<link>http://localhost:1313/projects/my-first-post/</link>
-				<pubDate>Wed, 14 Jan 2026 07:07:07 +0100</pubDate>
-				<guid>http://localhost:1313/projects/my-first-post/</guid>
+				<title>Enterprise RAG</title>
+				<link>http://localhost:1313/projects/p02-enterprise-rag/</link>
+				<pubDate>Tue, 14 Jul 2026 07:07:07 +0100</pubDate>
+				<guid>http://localhost:1313/projects/p02-enterprise-rag/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title></title>
-				<link>http://localhost:1313/experience/</link>
-				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/experience/</guid>
+				<title>AI Template - Python</title>
+				<link>http://localhost:1313/projects/p01-ai-template-python/</link>
+				<pubDate>Sun, 14 Jun 2026 07:07:07 +0100</pubDate>
+				<guid>http://localhost:1313/projects/p01-ai-template-python/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -39,7 +39,14 @@
 				<link>http://localhost:1313/contact/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/contact/</guid>
-				<description>Let&amp;rsquo;s discuss AI Engineering, Machine Learning, Generative AI, and opportunities to build production AI systems.</description>
+				<description></description>
+			</item>
+			<item>
+				<title>Experience</title>
+				<link>http://localhost:1313/experience/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/experience/</guid>
+				<description></description>
 			</item>
 	</channel>
 </rss>
