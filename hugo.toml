@@ -1,5 +1,3 @@
-baseURL = "https://vrajeshkanna.github.io/"
-defaultContentLanguage = "en"
-title = "Rajesh Kanna V"
-
-theme = "congo"
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
