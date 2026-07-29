@@ -1,130 +1,79 @@
 ---
 title: "About"
-description: "Learn more about Rajesh Kanna V"
-summary: "Senior Applied AI Engineer with 7+ years of experience delivering production AI systems."
+description: "Learn more about Rajesh Kanna V, my engineering philosophy, and my journey in Artificial Intelligence."
 layout: "simple"
-showTableOfContents: true
-showReadingTime: false
-showWordCount: false
-showTaxonomies: false
 showDate: false
 showAuthor: false
+showReadingTime: false
+showWordCount: false
+showTableOfContents: true
+showTaxonomies: false
 ---
 
-# About Me
+{{< lead >}} **Beyond Models. Building Production AI Systems.** {{< /lead >}}
 
-I am a **Senior Applied AI Engineer** and **Senior Data Scientist** with over **7 years of professional experience** designing, building, and deploying enterprise Artificial Intelligence solutions.
+Artificial Intelligence is no longer just about building accurate models. Success comes from designing reliable systems that can integrate data, software, cloud infrastructure, and business workflows into solutions that people trust and use every day.
 
-My work combines **Machine Learning, Generative AI, Agentic AI, Natural Language Processing, Retrieval-Augmented Generation (RAG), Forecasting, and Cloud MLOps** to solve real-world business problems at production scale.
-
-I believe great AI products are built through strong software engineering, clean architecture, robust MLOps, and measurable business impact—not by training models alone.
-
----
-
-## Professional Summary
-
-Throughout my career I have delivered AI solutions across multiple industries including:
-
-- Automotive
-- Logistics
-- Supply Chain
-- Manufacturing
-- Retail
-- Travel
-
-My experience spans the complete AI lifecycle:
-
-- Business problem discovery
-- Data engineering
-- Machine Learning
-- Large Language Models
-- Backend API development
-- Cloud deployment
-- Production monitoring
-- Continuous improvement
+That belief has shaped my career and continues to influence every project I build.
 
 ---
 
-## Areas of Expertise
+## My Journey
 
-### Artificial Intelligence
+I am an AI Engineer and Data Scientist with experience designing machine learning and Generative AI solutions across logistics, manufacturing, and enterprise analytics.
 
-- Generative AI
+My professional journey has taken me through global organizations including **Tata Consultancy Services**, **Amazon**, and **Altimetrik**, where I have worked on problems involving predictive analytics, optimization, Natural Language Processing, Large Language Models, and enterprise AI platforms.
+
+Along the way, I completed my **Master's in Artificial Intelligence & Machine Learning** at the **University of Birmingham, United Kingdom**, strengthening my foundation in modern AI while gaining an international perspective on engineering and innovation.
+
+Today, my focus is building production-ready AI systems that combine software engineering best practices with modern AI technologies.
+
+---
+
+## My Engineering Philosophy
+
+I believe successful AI products are built on four equally important pillars.
+
+### Build for Production
+
+A model is only valuable when it can be deployed, monitored, maintained, and continuously improved.
+
+### Solve Business Problems
+
+Technology should always support measurable business outcomes rather than exist as a demonstration of technical capability.
+
+### Engineer for Scale
+
+Architecture, maintainability, testing, and observability are as important as model performance.
+
+### Keep Learning
+
+Artificial Intelligence evolves rapidly. Continuous learning and experimentation are essential for building modern AI systems.
+
+---
+
+## Areas of Interest
+
+My primary interests include:
+
 - Agentic AI
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
+- Machine Learning
+- Natural Language Processing
+- AI Platform Engineering
 - AI Evaluation
-
-### Machine Learning
-
-- Regression
-- Classification
-- Forecasting
-- Recommendation Systems
-- Time Series Analytics
-- Feature Engineering
-
-### Natural Language Processing
-
-- Information Extraction
-- Text Classification
-- Sentiment Analysis
-- Document Intelligence
-- Semantic Search
-
-### AI Engineering
-
-- FastAPI
-- LangGraph
-- LangChain
-- Python
-- REST APIs
-- Async Programming
-
-### MLOps & Cloud
-
-- Docker
-- Kubernetes
-- CI/CD
-- Google Cloud Platform
-- AWS
-- Terraform
+- Cloud MLOps
+- Backend Engineering
+- Enterprise Software Architecture
 
 ---
 
-## Education
+## What I'm Building
 
-### MSc Artificial Intelligence & Machine Learning
+My long-term goal is to build a collection of open-source projects that demonstrate production-quality AI engineering.
 
-**University of Birmingham, United Kingdom**
-
-Graduated with Merit.
-
-Focused on Machine Learning, Deep Learning, Reinforcement Learning, Natural Language Processing, Computer Vision, and Intelligent Systems.
-
----
-
-## Professional Philosophy
-
-I enjoy designing AI systems that are:
-
-- Production ready
-- Scalable
-- Maintainable
-- Explainable
-- Secure
-- Business focused
-
-Rather than building isolated models, I focus on delivering complete AI platforms that integrate data, software engineering, cloud infrastructure, and user experience into production-quality solutions.
-
----
-
-## Current Focus
-
-I am currently expanding my open-source AI engineering portfolio by building enterprise-grade projects that demonstrate modern software engineering practices and production AI architectures.
-
-Current flagship projects include:
+Current focus areas include:
 
 - Enterprise RAG
 - SQL Agent
@@ -134,10 +83,36 @@ Current flagship projects include:
 - Travel Recommendation AI
 - Customer Feedback NLP
 
-These projects are designed to showcase production engineering practices including clean architecture, automated testing, CI/CD, containerization, observability, and cloud-native deployment.
+Each project is designed to showcase engineering practices such as clean architecture, testing, containerization, CI/CD, cloud deployment, and maintainable software design.
 
 ---
 
-## Career Objective
+## Continuous Learning
 
-My goal is to contribute as a **Senior Applied AI Engineer**, **Lead AI Engineer**, or **Senior Data Scientist**, helping organizations build reliable, scalable, and impactful AI products while mentoring engineering teams and driving technical excellence.
+Artificial Intelligence changes quickly, and I enjoy staying current with new research, engineering practices, and production technologies.
+
+My learning focuses on:
+
+- AI System Design
+- Agentic Workflows
+- Modern Software Architecture
+- Cloud-Native AI
+- MLOps
+- Distributed Systems
+- Open Source AI Frameworks
+
+---
+
+## Looking Ahead
+
+My aspiration is to contribute to organizations building the next generation of intelligent software.
+
+I enjoy working on challenging engineering problems where Artificial Intelligence, software engineering, and scalable system design come together to create meaningful business impact.
+
+As this portfolio grows, it will continue to document not only the projects I build, but also the engineering decisions, architectural trade-offs, and lessons learned throughout the journey.
+
+---
+
+{{< alert "circle-info" >}}
+I'm always interested in connecting with engineers, researchers, recruiters, and organizations building innovative AI products. If you'd like to discuss Artificial Intelligence, software engineering, or potential opportunities, I'd be happy to connect.
+{{< /alert >}}

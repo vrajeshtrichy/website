@@ -16,12 +16,12 @@ dateFormat = "2 January 2006"
 name = "Rajesh Kanna V"
 image = "img/rajesh_profile.png"
 
-headline = "Senior Applied AI Engineer • Senior Data Scientist • AI Technical Lead"
+headline = "Applied AI Technical Lead • Senior Data Scientist"
 
 bio = "Building production AI systems using Agentic AI, LLMs, Machine Learning and Cloud MLOps."
 
 links = [
   { github = "https://github.com/vrajeshtrichy" },
   { linkedin = "https://www.linkedin.com/in/vrajeshtrichy" },
-  { email = "mailto:rajeshkannavaidyanathan@gmail.com" },
+  { email = "mailto:vrajeshtrichy@gmail.com" },
 ]

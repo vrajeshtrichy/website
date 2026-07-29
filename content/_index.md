@@ -1,130 +1,79 @@
 ---
 title: "Home"
-description: "Rajesh Kanna V | Senior Applied AI Engineer | Senior Data Scientist | AI Technical Lead"
+description: "Senior Applied AI Engineer building production AI systems."
+layout: "profile"
 showDate: false
+showAuthor: false
 showReadingTime: false
 showWordCount: false
+showTableOfContents: false
 showTaxonomies: false
-showAuthor: false
 ---
 
-
-Hello 👋, I am a **Lead Applied AI Engineer** and **Senior Data Scientist** with over **7 years of experience** delivering enterprise Artificial Intelligence solutions across Machine Learning, Generative AI, Natural Language Processing, Forecasting, and Cloud-native AI platforms.
-
-I enjoy transforming complex business problems into scalable, production-ready AI systems through clean software engineering, robust MLOps, and modern AI architectures.
-
----
-
-## Current Focus
-
-I'm currently building a portfolio of enterprise-grade AI Engineering projects designed to showcase production-quality software engineering and AI system design.
-
-### 🚧 Active Projects
-
-- Enterprise RAG
-- SQL Agent
-- AI Template Python
-- LLM Evaluation Platform
-- Agentic Cost Optimizer
-- Travel Recommendation AI
-- Customer Feedback NLP
+{{< lead >}}
+Building enterprise AI systems with **LLMs**, **Agentic AI**, **Machine Learning**, and **Cloud MLOps**.
+{{< /lead >}}
 
 ---
 
-## Core Expertise
+## Professional Philosophy
 
-### 🤖 Artificial Intelligence
+Great AI products are built through strong software engineering.
 
-- Agentic AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Prompt Engineering
-- AI Evaluation
+I believe successful AI systems require more than accurate models—they demand robust architecture, maintainable code, reliable deployment pipelines, comprehensive testing, observability, and a clear focus on solving business problems.
 
-### 🧠 Machine Learning
-
-- Forecasting
-- Regression
-- Classification
-- Recommendation Systems
-- Natural Language Processing
-
-### ⚙️ AI Engineering
-
-- Python
-- FastAPI
-- LangGraph
-- LangChain
-- REST APIs
-- Async Programming
-
-### ☁️ Cloud & MLOps
-
-- Google Cloud Platform
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- CI/CD
+That philosophy guides every project in this portfolio.
 
 ---
 
-## What You'll Find Here
+### Current Focus Projects
 
-This website documents my journey building production-ready AI systems, including:
+🚧 Enterprise RAG
 
-- Enterprise AI Architecture
-- Agentic AI Workflows
-- Retrieval-Augmented Generation (RAG)
-- LLM Applications
-- Production MLOps
-- Cloud-native AI Engineering
-- Software Architecture
-- Technical Design Decisions
+🚧 SQL Agent
 
-Every project emphasizes engineering quality, maintainability, scalability, and measurable business value.
+🚧 AI Template Python
+
+🚧 LLM Evaluation
+
+🚧 Agentic Cost Optimizer
 
 ---
 
-{{< alert "circle-info" >}}
-**Currently seeking opportunities as a:**
+{{< button href="/projects" >}}
+Explore Portfolio
+{{< /button >}}
 
-- Senior Applied AI Engineer
-- Lead AI Engineer
-- Senior Data Scientist
-- AI Technical Lead
-
-Open to opportunities in **India**, the **United Kingdom**, and **Europe**.
-{{< /alert >}}
+{{< button href="/Rajesh_Kanna_Resume.pdf" target="_blank" >}}
+Download Resume
+{{< /button >}}
 
 ---
 
-## Featured Projects
+### Areas of Expertise
 
-| Project | Status |
-|----------|--------|
-| Enterprise RAG | 🚧 Active Development |
-| SQL Agent | 🚧 Planned |
-| AI Template Python | 🚧 Active Development |
-| LLM Evaluation | 📅 Planned |
-| Agentic Cost Optimizer | 📅 Planned |
-| Travel Recommendation AI | 📅 Planned |
-| Customer Feedback NLP | 📅 Planned |
+**Generative AI**
 
-Visit the **Projects** section to follow the progress of these flagship AI Engineering repositories.
+LLMs • Agentic AI • RAG
+
+**Machine Learning**
+
+Forecasting • NLP • Recommendation Systems
+
+**AI Engineering**
+
+FastAPI • LangGraph • Python
+
+**Cloud**
+
+Docker • Kubernetes • GCP • AWS
 
 ---
 
-## Engineering Philosophy
+> I build production AI platforms—not proof-of-concept demos.
 
-I believe successful AI systems are built through the combination of:
+---
 
-- Strong Software Engineering
-- Reliable Machine Learning
-- Modern AI Frameworks
-- Cloud-native Infrastructure
-- Automated Testing
-- Continuous Delivery
-- Clean Architecture
+Interested in **Senior AI Engineer**, **Lead AI Engineer**, and **Senior Data Scientist** opportunities.
 
-My goal is to design AI platforms that are not only intelligent, but also maintainable, scalable, and production-ready.
+➡️ Explore my **Projects** to see the engineering behind each solution.
