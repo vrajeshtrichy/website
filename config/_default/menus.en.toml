@@ -1,47 +1,78 @@
-# -- Main Menu --
-# The main menu is displayed in the header at the top of the page.
-# Acceptable parameters are name, pageRef, page, url, title, weight.
-#
-# The simplest menu configuration is to provide:
-#   name = The name to be displayed for this menu link
-#   pageRef = The identifier of the page or section to link to
-#
-# By default the menu is ordered alphabetically. This can be
-# overridden by providing a weight value. The menu will then be
-# ordered by weight from lowest to highest.
+# config/_default/menus.en.toml
+
+###############
+# Main Menu
+###############
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Home"
+  pageRef = "/"
   weight = 10
 
 [[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Projects"
+  pageRef = "projects"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
+  name = "Experience"
+  pageRef = "experience"
   weight = 30
 
 [[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
+  name = "About"
+  pageRef = "about"
+  weight = 40
 
 [[main]]
-  identifier = "locale"
-  weight = 100
+  name = "Contact"
+  pageRef = "contact"
+  weight = 50
+
+###############
+# External Links
+###############
+
+[[main]]
+  identifier = "github"
+  weight = 90
+  url = "https://github.com/vrajeshtrichy"
+
   [main.params]
-    action = "locale"
+    icon = "github"
+    showName = false
+    target = "_blank"
 
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
+[[main]]
+  identifier = "linkedin"
+  weight = 91
+  url = "https://www.linkedin.com/in/vrajeshtrichy"
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+  [main.params]
+    icon = "linkedin"
+    showName = false
+    target = "_blank"
+
+###############
+# Footer Menu
+###############
+
+[[footer]]
+  name = "Resume"
+  url = "/Rajesh_Kanna_Resume.pdf"
+  weight = 10
+
+[[footer]]
+  name = "GitHub"
+  url = "https://github.com/vrajeshtrichy"
+  weight = 20
+
+[[footer]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/vrajeshtrichy"
+  weight = 30
+
+[[footer]]
+  name = "Email"
+  url = "mailto:rajeshkannavaidyanathan@gmail.com"
+  weight = 40
