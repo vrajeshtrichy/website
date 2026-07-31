@@ -18,18 +18,19 @@ My experience spans enterprise AI, Machine Learning, Data Science, and analytics
 
 ---
 
-## Senior Applied AI Engineer
+## Senior Data Scientist | Applied AI Engineer | Team Lead
 
-### Altimetrik
+### Altimetrik — Client: Ford Motor Company (GDIA)
 
-**2025 – Present**
+**Chennai, IN · 2025 – Present**
+
+Leading a team of 3 Data Science Engineers, owning project delivery, code reviews, and the integration of ML models into Ford's global data infrastructure.
 
 **Focus**
 
 - Production AI Systems
-- Generative AI
-- Agentic AI
-- Machine Learning
+- Generative AI & Agentic AI
+- Machine Learning & Statistical Modeling
 - Cloud MLOps
 
 **Technology**
@@ -38,75 +39,82 @@ Python • FastAPI • LangGraph • Vertex AI • BigQuery • Docker • Kuber
 
 **Highlights**
 
-- Designed enterprise AI applications using modern LLM frameworks.
-- Built scalable backend services for AI-powered products.
-- Developed cloud-native Machine Learning and Generative AI solutions.
-- Contributed to engineering standards, automation, and technical mentoring.
+- **Vehicle Sales Revenue Prediction** — Architected a two-stage Point-in-Time (PiT) model for fleet revenue forecasting; a classification model improved lead conversion accuracy by **14%**, and a companion regression model reduced volume forecast error (RMSE) by **18%**.
+- **Parts Sales & Customer Segmentation** — Built an RFM (Recency, Frequency, Monetary) framework that identified high-churn-risk segments representing **22%** of annual revenue, and used cohort analysis to drive targeted marketing that improved customer retention by **10%**.
+- **Agentic AI & Decision Intelligence** — Productionized an Agentic RAG + GenAI decision layer on GCP for Ford cost analytics, cutting average time-to-decision by **~40%** and delivering **~20%** cost savings on procurement recommendations.
+- **MLOps & CI/CD** — Architected end-to-end pipelines using FastAPI and Docker to standardize releases and accelerate model rollouts across the team.
 
 ---
 
-## Data Analyst
+## Data Analyst (Logistics)
 
-### Amazon UK
+### Amazon
 
-**2023 – 2025**
+**Birmingham, UK · 2023 – 2025**
 
 **Focus**
 
 - Operations Analytics
+- Statistical Modeling
 - Process Optimisation
-- Business Intelligence
 - Performance Reporting
 
 **Technology**
 
-SQL • Python • Excel • Data Analytics
+Python • SQL • Redshift • Statistical Modeling
 
 **Highlights**
 
-- Supported data-driven operational decision making.
-- Analysed large-scale logistics data.
-- Improved reporting and operational visibility.
-- Worked within fast-paced production environments.
+- Analyzed real-time operational datasets across automated warehouses handling **45,000+ daily shipments** to identify bottlenecks.
+- Enhanced task routing and shipment forecasting through statistical modeling, reducing manual interventions by **15%**.
+- Collaborated with central data science teams on internal tooling and performance dashboards integrated with Redshift.
 
 ---
 
 ## Data Scientist
 
-### Tata Consultancy Services
+### Tata Consultancy Services — Industry Advisory Group
 
-**2017 – 2021**
+**Chennai, IN · 2017 – 2021**
 
 **Focus**
 
-- Machine Learning
 - Natural Language Processing
+- Big Data Processing
 - Forecasting
 - Recommendation Systems
 
 **Technology**
 
-Python • PySpark • TensorFlow • Scikit-learn • AWS • SQL
+Python • PySpark • EMR • AWS • Prophet • SQL
 
 **Highlights**
 
-- Delivered enterprise AI solutions across multiple industries.
-- Built NLP applications for customer insight and text analytics.
-- Developed forecasting and predictive analytics solutions.
-- Designed recommendation systems for improved customer experience.
+- **NLP for Last-Mile Enhancement (AWS)** — Built a BERT-based NLP model (**F1: 0.91**) analyzing 500K+ customer feedback entries, improving delivery satisfaction by **15%** and cutting operational costs by **10%**.
+- **Event Log & Parcel Optimization** — Processed **40M+ records** via PySpark/EMR, reducing processing time by **40%**; applied Prophet-based forecasting (**MAPE: 8.5%**) to improve delivery accuracy by **18%**.
+- **ML-Driven Personalization** — Delivered recommendation features for travel and hospitality clients, increasing user engagement by **20%** through tailored suggestions.
+
+---
+
+## Recognition
+
+- 🏆 **Gem Award — GenAI Excellence** (Altimetrik) — rapidly delivered an end-to-end GenAI application for Ford from research through production launch.
+- 🏆 **Gem Award — Strategic Impact** (Altimetrik) — recognized for leading technical recruiting, mentoring engineers in AI/DS, and org-wide knowledge sessions.
+- 🏆 **Raising the Bar** (Amazon) — recognized for driving team performance against quarterly KPI targets.
+- 🏆 **Star Performer** (TCS) — recognized for leading a group of 50+ associates in monitoring and task execution.
 
 ---
 
 ## Core Capabilities
 
-| AI & ML | Engineering | Cloud |
-|---------|-------------|-------|
-| Generative AI | Python | Google Cloud |
-| Agentic AI | FastAPI | AWS |
-| LLM Applications | REST APIs | Docker |
-| Machine Learning | LangGraph | Kubernetes |
-| NLP | LangChain | Terraform |
-| Forecasting | Clean Architecture | CI/CD |
+| AI & ML | Data & Engineering | Cloud |
+|---------|---------------------|-------|
+| Generative AI | Python | Google Cloud (Vertex AI, Cloud Run) |
+| Agentic AI (LangGraph) | FastAPI | AWS (SageMaker, EMR, Glue) |
+| Retrieval-Augmented Generation | PySpark | Docker |
+| Classification & Regression | BigQuery • Redshift • SQL | Kubernetes |
+| Time-Series Forecasting (Prophet) | REST APIs | CI/CD |
+| NLP (BERT) | Clean Architecture | MLflow • Airflow |
 
 ---
 
@@ -114,10 +122,10 @@ Python • PySpark • TensorFlow • Scikit-learn • AWS • SQL
 
 | Period | Role |
 |---------|------|
-| **2025 – Present** | Senior Applied AI Engineer |
-| **2023 – 2025** | Data Analyst |
-| **2021 – 2022** | MSc Artificial Intelligence & Machine Learning (University of Birmingham, UK) |
-| **2017 – 2021** | Data Scientist |
+| **2025 – Present** | Senior Data Scientist, Altimetrik (Client: Ford Motor Company) |
+| **2023 – 2025** | Data Analyst, Amazon — Birmingham, UK |
+| **2021 – 2022** | MSc Artificial Intelligence & Machine Learning, University of Birmingham, UK |
+| **2017 – 2021** | Data Scientist, Tata Consultancy Services |
 
 ---
 
